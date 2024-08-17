@@ -1,6 +1,6 @@
 
 # Zafumix icons 
-I really like the Zafiro icon set for apps but I don't like their folders. I really like the Numix folders so here's a combination. I run Gnome so I know it works with that. Haven't tried it with any other desktop environments. 
+I really like the Zafiro icon set (https://github.com/zayronxio/Zafiro-icons) for apps but I don't like their folders. I really like the Numix (https://github.com/numixproject) folders, so here's a combination of the Numix 2023 onwards folders and Zafiro applications icons. I run Gnome on Debian and and Gnome on Arch so I know it works with those configurations. Haven't tried it with any other distros and desktop environments. 
 
 This only has the Numix default folder colors. If you want the other colors, check this out https://github.com/joaoatienza/zafumix-icons
 
